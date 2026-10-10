@@ -1,4 +1,4 @@
-<h1 align="center">Mohamed Ashraf</h1>
+<h1 align="center">Mohamed A. Abdelazim</h1>
 <h3 align="center">Data Engineering Student · Computer Engineering @ E-JUST</h3>
 
 <p align="center">
